@@ -14,6 +14,6 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: Vì đây là lần đầu em làm bài rồi push lên github nên phải mất khá  nhiều thời gian để nghiên cứu cách, đồng thời việc tìm threat / vulnerability / mitigation cho sự cố B cũng để lại khá nhiều khó khăn.
+- Cách em xử lý: em đã kết hợp giữa Youtube và AI để tải các file phù hợp cho việc sử dụng github trên VS Code; cũng như xác định rõ căn nguyên của sự cố để dưa ra giải pháp phù hợp
+- Điều em học được từ bài lab:sử dụng github, phân loại CIA, tìm threat / vulnerability / mitigation
