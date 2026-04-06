@@ -2,16 +2,16 @@
 
 Điền ngắn gọn quá trình làm bài. Có thể thêm hoặc bớt dòng.
 
-- [ ] 15:00 - accept assignment
-- [ ] 16:45 - Clone repo về máy
-- [ ] 16:50 - Đọc đề bài và xác định assets
-- [ ] 17:15 - Hoàn thành CIA mapping
-- [ ] 17:25 - Viết threat / vulnerability / mitigation
-- [ ] 17:35 - Hoàn thành report-1page
-- [ ] 17:51 - Commit lần 1
-- [ ] 17:52 - Chỉnh sửa sau khi tự kiểm
-- [ ] 17:55 - Commit lần 2
-- [ ] 18:00 - Push repo và kiểm tra link nộp
+- [x] 15:00 - accept assignment
+- [x] 16:45 - Clone repo về máy
+- [x] 16:50 - Đọc đề bài và xác định assets
+- [x] 17:15 - Hoàn thành CIA mapping
+- [x] 17:25 - Viết threat / vulnerability / mitigation
+- [x] 17:35 - Hoàn thành report-1page
+- [x] 17:51 - Commit lần 1
+- [x] 17:52 - Chỉnh sửa sau khi tự kiểm
+- [x] 17:55 - Commit lần 2
+- [x] 18:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
 - Khó khăn gặp phải: Vì đây là lần đầu em làm bài rồi push lên github nên phải mất khá  nhiều thời gian để nghiên cứu cách, đồng thời việc tìm threat / vulnerability / mitigation cho sự cố B cũng để lại khá nhiều khó khăn.
