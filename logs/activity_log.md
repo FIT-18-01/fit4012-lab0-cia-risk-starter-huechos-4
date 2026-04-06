@@ -8,9 +8,9 @@
 - [ ] 17:15 - Hoàn thành CIA mapping
 - [ ] 17:25 - Viết threat / vulnerability / mitigation
 - [ ] 17:35 - Hoàn thành report-1page
-- [ ] 09:45 - Commit lần 1
-- [ ] 09:50 - Chỉnh sửa sau khi tự kiểm
-- [ ] 09:55 - Commit lần 2
+- [ ] 17:51 - Commit lần 1
+- [ ] 17:52 - Chỉnh sửa sau khi tự kiểm
+- [ ] 17:55 - Commit lần 2
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
