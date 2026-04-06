@@ -11,7 +11,7 @@
 - [ ] 17:51 - Commit lần 1
 - [ ] 17:52 - Chỉnh sửa sau khi tự kiểm
 - [ ] 17:55 - Commit lần 2
-- [ ] 10:00 - Push repo và kiểm tra link nộp
+- [ ] 18:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
 - Khó khăn gặp phải: Vì đây là lần đầu em làm bài rồi push lên github nên phải mất khá  nhiều thời gian để nghiên cứu cách, đồng thời việc tìm threat / vulnerability / mitigation cho sự cố B cũng để lại khá nhiều khó khăn.
