@@ -29,4 +29,4 @@
 - Mitigation: Áp dụng phân quyền chặt chẽ, bổ sung chức năng log lịch sử thay đổi điểm và xác thực hai lớp cho tài khoản giảng viên.
 
 ### 4. Kết luận ngắn
-Bài lab giúp em hiểu rõ hơn về các khái niệm cơ bản trong an toàn thông tin như bộ ba CIA, threat, vulnerability và mitigation. Em nhận ra việc xác định đúng tài sản và phân tích đúng sự cố theo CIA là rất quan trọng để bảo vệ hệ thống. Phần khó nhất là phân tích chi tiết threat, vulnerability và đề xuất mitigation phù hợp cho từng tình huống thực tế. Khi phân tích một sự cố, cần chú ý xem xét cả nguyên nhân, hậu quả và các biện pháp phòng ngừa để đảm bảo hệ thống an toàn toàn diện.
+Điều em học từ bài lab: Bài lab giúp em hiểu rõ hơn về các khái niệm cơ bản trong an toàn thông tin như bộ ba CIA, threat, vulnerability và mitigation. Em nhận ra việc xác định đúng tài sản và phân tích đúng sự cố theo CIA là rất quan trọng để bảo vệ hệ thống. Phần khó nhất là phân tích chi tiết threat, vulnerability và đề xuất mitigation phù hợp cho từng tình huống thực tế. Khi phân tích một sự cố, cần chú ý xem xét cả nguyên nhân, hậu quả và các biện pháp phòng ngừa để đảm bảo hệ thống an toàn toàn diện.
